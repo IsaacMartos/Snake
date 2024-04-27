@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isi\\Desktop\\PROJECTS\\C\u002B\u002B\\Snake_IsaacMartos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0BA78-0625-4901-9E93-722513FD79F7}|LluviaDeLetras\\LluviaDeLetras.vcxproj|C:\\Users\\Isi\\Desktop\\PROJECTS\\C\u002B\u002B\\Snake_IsaacMartos\\Snake\\LluviaDeLetras\\Source\\SnakeEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAC0BA78-0625-4901-9E93-722513FD79F7}|LluviaDeLetras\\LluviaDeLetras.vcxproj|solutionrelative:LluviaDeLetras\\Source\\SnakeEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\Isi\\Desktop\\PROJECTS\\C\u002B\u002B\\Snake_IsaacMartos\\Snake\\LluviaDeLetras\\Source\\SnakeEngine.cpp",
+              "RelativeDocumentMoniker": "LluviaDeLetras\\Source\\SnakeEngine.cpp",
+              "ToolTip": "C:\\Users\\Isi\\Desktop\\PROJECTS\\C\u002B\u002B\\Snake_IsaacMartos\\Snake\\LluviaDeLetras\\Source\\SnakeEngine.cpp",
+              "RelativeToolTip": "LluviaDeLetras\\Source\\SnakeEngine.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:44:43.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
